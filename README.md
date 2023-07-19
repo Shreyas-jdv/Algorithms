@@ -11,8 +11,8 @@ To use the project , simply import the module by import algos. Explore and check
 We use unittest for testing . Checkout the test directory for all the tests.
 
 # Implemented
-[x] Array
-[x] Dynamic Array
+1. [x] Array
+2. [x] Dynamic Array
 [x] Linked List
 [ ] Doubly Linked List
 [ ] Circular Linked List
