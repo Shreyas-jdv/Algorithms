@@ -13,28 +13,28 @@ We use unittest for testing . Checkout the test directory for all the tests.
 # Implemented
 1. [x] Array
 2. [x] Dynamic Array
-[x] Linked List
-[ ] Doubly Linked List
-[ ] Circular Linked List
-[ ] Circular Doubly Linked List
-[ ] Queue with Array
-[x] Queue with Linked List
-[ ] Stack with Array
-[x] Stack with Linked List
-[x] Hash Table with Chain
-[ ] Hash Table with Open Addressing
-[ ] Tower of Hanoi
-[x] Binary Search
-[x] Linear Search
-[x] Bubble Sort
-[ ] Counting Sort
-[x] Insertion Sort
-[ ] Quick Sort
-[ ] Merge Sort
-[ ] Selection Sort
-[ ] Tim Sort
-[ ] Stalin Sort
-[ ] Tree
-[ ] Heap
-[ ] Edge List
-[ ] Adjacency Matrix
+3. [x] Linked List
+4. [ ] Doubly Linked List
+5. [ ] Circular Linked List
+6. [ ] Circular Doubly Linked List
+7. [ ] Queue with Array
+8. [x] Queue with Linked List
+9. [ ] Stack with Array
+10. [x] Stack with Linked List
+11. [x] Hash Table with Chain
+12. [ ] Hash Table with Open Addressing
+13. [ ] Tower of Hanoi
+14. [x] Binary Search
+15. [x] Linear Search
+16. [x] Bubble Sort
+17. [ ] Counting Sort
+18. [x] Insertion Sort
+19. [ ] Quick Sort
+20. [ ] Merge Sort
+21. [ ] Selection Sort
+22. [ ] Tim Sort
+23. [ ] Stalin Sort
+24. [ ] Tree
+25. [ ] Heap
+26. [ ] Edge List
+27. [ ] Adjacency Matrix
