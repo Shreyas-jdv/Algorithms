@@ -1,5 +1,5 @@
 #+author: Shreyas Jadhav
-* Algos
+* Algorithms
 This project is a attempt to make all types of algorithm and data structures available to importing.
 Although it might not be useful , a insertion sort algorithm could be a import away!
 
